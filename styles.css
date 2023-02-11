@@ -1,0 +1,36 @@
+body {
+    margin: 20px;
+    font-family: Courier New, Courier, monospace;
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 100px;
+    
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #fff3b0;
+    color: #003566;
+    border-bottom: 6px solid #fe7f2d;
+    
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+.hover:hover {
+    color: #780000;
+}
+
+.avatar:hover {
+    box-shadow: 10px 10px;
+}
+
+
